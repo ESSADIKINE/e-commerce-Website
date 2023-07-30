@@ -50,7 +50,7 @@ To run the FSTtech E-Commerce Website locally on your machine, follow these step
 ## UML Use Case Diagram:
 
 <div> 
-<img src="" width="100%">
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/UML%20Use%20Case%20Diagram.jpg" width="100%">
 </div>
 
 ## UML Class Diagram:
@@ -77,5 +77,9 @@ To run the FSTtech E-Commerce Website locally on your machine, follow these step
 <img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/Navigation.png" width="100%">
 </div>
 
+## Contact:
+
+### For any inquiries or questions regarding the project, you can reach out to us at an4ss.essadikine@gmail.com.
+### My linkedin : <a href="https://www.linkedin.com/in/anass-essadikine-8b398b233">linkedin</a>
 
 
