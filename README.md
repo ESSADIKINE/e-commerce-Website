@@ -39,24 +39,42 @@ To run the FSTtech E-Commerce Website locally on your machine, follow these step
 
 <div><h3>User</h3></div>
 <div>
-<img src="https://github.com/ESSADIKINE/Inventory-management/blob/main/Menu.png" width="700px">
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/User.png" width="100%">
 </div>
 
 <div><h3>Admin</h3></div>
 <div>  
-<img src="https://github.com/ESSADIKINE/Inventory-management/blob/main/Product.png" width="700px">
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/Admin.png" width="100%">
 </div>  
+
+## UML Use Case Diagram:
+
+<div> 
+<img src="" width="100%">
+</div>
 
 ## UML Class Diagram:
 
 <div> 
-<img src="https://github.com/ESSADIKINE/Inventory-management/blob/main/UML.jpg" width="800px">
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/Class%20diagram.jpg" width="100%">
 </div>
 
 ## Conceptual Data Model:
 
 <div> 
-<img src="https://github.com/ESSADIKINE/Inventory-management/blob/main/MCD.jpg" width="800px">
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/MCD.png" width="100%">
+</div>
+
+## Modeling the purchase process in the site for a customer:
+
+<div> 
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/Mod%C3%A9lisation%20processus%20d'achat%20dans%20le%20site%20pour%20un%20client%20.png" width="100%">
+</div>
+
+## Navigation:
+
+<div> 
+<img src="https://github.com/ESSADIKINE/e-commerce-Website/blob/main/Navigation.png" width="100%">
 </div>
 
 
