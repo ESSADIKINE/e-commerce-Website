@@ -31,7 +31,7 @@ The website is developed using the following technologies:
 
 To run the FSTtech E-Commerce Website locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/FSTtech/e-commerce.git`
+1. Clone the repository: `git clone https://github.com/ESSADIKINE/e-commerce-Website.git`
 2. Set up a local server (e.g., XAMPP, WAMP) and import the MySQL database from the `database` folder.
 3. Launch the website from your web server.
 
